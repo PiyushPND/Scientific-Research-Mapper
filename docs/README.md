@@ -78,4 +78,4 @@ For each non-noise semantic cluster, the application fits scikit-learn's `Latent
 
 The backend separates ingestion, preprocessing, embeddings, clustering, topic extraction, discovery, and paper management. SQLite stores papers and each processing stage. The React and TypeScript frontend uses the API to manage papers and display the map.
 
-See [docs/architecture.md](docs/architecture.md) for the component responsibilities, data model, and processing flow.
+See [docs/architecture.md](architecture.md) for the component responsibilities, data model, and processing flow.
