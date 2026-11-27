@@ -697,7 +697,7 @@ function App() {
       <header className="header">
         <div>
           <span className="eyebrow">
-            MACHINE LEARNING AND NATURAL LANGUAGE PROCESSING
+            MACHINE LEARNING AND NATURAL LANGUAGE PROCESSING PROJECT
           </span>
           <h1>Scientific Research Mapper</h1>
           <p>
@@ -1174,7 +1174,7 @@ function App() {
         </CollapsibleSection>
       </div>
       {error && <div className="error">{error}</div>}
-      <footer>Scientific Research Mapper · Research topics with LDA</footer>
+      <footer>Scientific Research Mapper by Piyush Panda</footer>
     </main>
   );
 }
