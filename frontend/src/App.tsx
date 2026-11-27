@@ -720,7 +720,7 @@ function App() {
               </span>
             </button>
             <span className="theme-caption">
-              {theme === "light" ? "Light mode" : "Dark mode"}
+              {theme === "light" ? "Dark mode" : "Light mode"}
             </span>
           </div>
           <div className="capacity-circle">
